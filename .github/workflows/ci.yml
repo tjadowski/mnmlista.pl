@@ -2,7 +2,7 @@ name: Deploy mnmlista.pl
 on:
   push:
     branches:
-      - main
+      - master
 jobs:
   my_job:    
     name: build-mnmlista
