@@ -2,32 +2,28 @@ mój minimalistyczny desktop
 2009-09-05#1
 /my-minimalist-desktop
 
-Szukam ochotnika(czki) który przetłumaczy ten wpis, szczegóły jak to zrobić są [tutaj](/assets/README.txt)
+Uwielbiam patrzeć na pulpity komputerowe innych ludzi, więc pomyślałem, że pokaże
+swój jako przykład czystego, minimalistycznego pulpitu.
 
-*******
+Tapeta pulpitu zmienia się od czasu do czasu — teraz jest to śnieżna pantera,
+przypominający nowy system OSX śnieżna pantera. Lubię tą tapetę bo jest spokojna
+lecz inspirująca.
 
-I love seeing other people’s desktops, so I thought I’d show mine as an example
-of a clean, minimalist desktop.
+Usunąłem wszystkie ikony, włączając w to ikony dysków (wejdź w Ustawienia w Szukaj,
+odznacz twarde dyski z listy "pokaż te elementy"). Również usunąłem pasek menu używając
+programu MagicMenu.
 
-The desktop pic changes now and then — right now it’s a snow leopard,
-reminiscent of the new OSX snow leopard. I enjoy pics that are calm but
-inspiring.
+Auto ukrywam Dock (wejdź do ustawień Docka i "włącz ukrywanie"), jako że nigdy nie
+używam docka do uruchamiania aplikacji lub dokumentów — zamiast tego używam Quicksilver.
+Ouicksilbver uruchamia rzeczy szybciej niż Dock czy nawet Spotlight, bazując na moim
+doświadczeniu, i może robić dużo więcej niż tylko uruchamiać (dodawać tekst, wysyłać
+załączniki, przycinać zdjęcia i więcej).
 
-I’ve removed all icons, including hard drive icons (go to Preferences in the
-Finder, unselect hard disks from “show these items” list). I’ve also removed
-the menu bar using MagicMenu.
+Przez chwilę używałem tylko czystego panelu, bez ikon, docka czy paska menu, ale jedyną
+rzeczą której mi brakowało z paska menu był zegarek. Więc dodałem czas i datę poprzez GeekTool wraz
+z moim ulubionym cytatem.
 
-I autohide the Dock (go to Dock preferences, and “turn hiding on”), as I never
-use the dock for launching applications or documents — I use Quicksilver
-instead. Quicksilver launches things faster than the Dock or even Spotlight, in
-my experience, and can do much more than launch (appending text, emailing
-items, cropping photos, and more).
+Poza tym, nie ma nic więcej. Tak jest jak to lubię.
 
-For awhile, I was just using a blank desktop pic, with no icons, dock or menu
-bar, but the only thing I missed from the menu bar was the clock. So I added
-the time and date via GeekTool, along with my favorite quote.
 
-Otherwise, there’s nothing there. Which is how I like it.
-
-Note: A less detailed version of this post originally ran on Minimal_Mac, an
-excellent blog.
+Adnotacja: Mniej szczegółowa wersja tego wpisu oryginalnie jest na Minimal_Mac, doskonałym blogu.
