@@ -7,41 +7,36 @@ Wtedy ktoś zapytał: ‘Jak ominięcie jest najczystszą formą piękna?’
 
 To jest esencja minimalizmu. Wielokropek jest znakiem interpunkcyjnym (…) który wskazuje na celowe ominięcie.
 
-Z Wikipedii: “Wielokropek może być również użyty aby wskazać przewę w mowie, niedokończoną myśl lub, na końcu zdania, zanikać w ciszę.”
+Z Wikipedii: “Wielokropek może być również użyty aby wskazać przerwę w mowie, niedokończoną myśl lub, na końcu zdania, zanikać w ciszę.”
 
 Jeśli ten opis nie zainspirował pięknych myśli w tobie, być może nie będziesz minimalistą.
 
-A pause in speech is silence. Silence is one of the most profound ways to
-connect with your inner voice, with nature. Silence is the best part of speech.
+Przerwą w mowie jest cisza. Cisza jest jedną z najbardziej głębokich dróg do połączenia się z Twoim wewnętrznym głosem, z naturą. Cisza jest najlepszą częścią mowy.
 
-An unfinished thought is any thought, really — if a thought is “finished” it’s
-dead. We are all of us in transition, all the time, and our thoughts can be no
-exception.
+Każda myśl jest niedokończoną myślą, naprawdę — jeśli myśl jest "skończona" to jest martwa. Wszyscy się zmieniamy, przez cały czas, i nasze myśli nie mogą być wyjątkiem. 
 
-Trailing off into silence implies that there is much left unsaid … that what is
-said is only the start.
+Zamilknięcie głosu sugeruje, że jest dużo niewypowiedzianych … i to co zostało powiedziane jest tylko początkiem.
 
-Intentional omission is the foundation of minimalism: we leave things out
-because they are unnecessary, and retain only what we need or use or love.
+Celowe pominięcie jest podstawą minimalizmu: usuwamy rzeczy dlatego że są niepotrzebne i zachowujemy tylko to co potrzebujemy lub używamy czy kochamy.
 
-Omitting the unnecessary is a thing of pure beauty.
+Pominięcie niepotrzebnych rzeczy jest czystym pięknem.
 
 …
 
-Say less, and hear more.
+Mów mniej i słuchaj więcej.
 
-Do less, and have a greater impact.
+Rób mniej i miej większy wpływ.
 
-Make less noise, and appreciate the silence.
+Rób mniej szumu i doceniaj ciszę.
 
-Send out fewer emails, and make each one count.
+Wysyłaj mniej emaili i spraw aby każdy był ważny.
 
-Tweet less, and each one becomes more meaningful.
+Twittuj mniej, niech każdy z nich stanie się bardziej wartościowy.
 
-Have fewer possessions, and enjoy the space.
+Miej mniej rzeczy i ciesz się przestrzenią.
 
-Have fewer “friends”, but make each relationship stronger.
+Miej mniej "przyjaciół" ale miej z nimi silniejsze relacje.
 
-Appreciate the spaces between everything.
+Doceniaj przestrzeń pomiędzy wszystkim.
 
 …
