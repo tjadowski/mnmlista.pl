@@ -1,0 +1,36 @@
+name: Deploy mnmlista.pl
+on:
+  push:
+    branches:
+      - main
+jobs:
+  my_job:    
+    name: build-mnmlista
+    if: github.actor == github.event.repository.owner.login
+    runs-on: ubuntu-18.04
+    steps:
+    - name: install
+      run: |
+        sudo apt-get install lftp pandoc -y
+    - name: Checkout mnmlista
+      uses: actions/checkout@v2
+      with:
+        repository: tjadowski/mnmlista.pl
+        token: ${{ secrets.GITHUB_TOKEN }} # `GitHub_PAT` is a secret that contains your PAT
+        path: $GITHUB_WORKSPACE
+    - name: build mnmlista
+      working-directory: $GITHUB_WORKSPACE
+      run: |        
+        source ./env.conf
+        export CONVERTER="pandoc"
+        export MARKDOWN="pandoc -t html"
+        ./make.sh
+    - name: deploy mnmlista
+      working-directory: $GITHUB_WORKSPACE
+      run: |
+        ./add_timestamp.sh
+        ./rewrite_url.sh
+        find ./public -type d -exec chmod 755 {} \;
+        find ./public -type f -exec chmod 644 {} \;
+        cd public
+        lftp -e 'cd mnmlista.pl; mirror -vvv -e -R -n .;exit' -u ${{ secrets.FTP_USER }},${{ secrets.FTP_SECRET }} ${{ secrets.FTP_HOST }}

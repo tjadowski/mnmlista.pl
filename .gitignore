@@ -1,0 +1,12 @@
+public
+.archive.tmp
+.originalarchive.tmp
+.rss.tmp
+.mnmlista.md
+.mnmlist.md
+assets/README.txt
+assets/source-mnmlista.pl.zip
+rss.xml
+*~
+tags
+secret.conf

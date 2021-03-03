@@ -1,0 +1,50 @@
+RewriteEngine on
+
+RewriteCond %{HTTP_HOST} ^www.mnmlista.pl(.*) [NC]
+RewriteRule ^(.*) https://mnmlista.pl/$1 [QSA,L,R=301]
+
+RewriteCond %{HTTPS} off
+RewriteRule .* https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+
+Redirect /offline/subskrypcja, /offline/subskrypcja/
+Redirect /olx https://www.olx.pl/oferty/uzytkownik/2TRT1/
+
+AddDefaultCharset utf-8
+AddCharset utf-8 .html .css .js .txt
+DefaultLanguage pl-PL
+Options -Indexes
+
+AddOutputFilterByType DEFLATE "text/text" \
+                              "text/html" \
+                              "text/plain" \
+                              "text/xml" \
+                              "text/css"
+
+<ifModule mod_expires.c>
+  ExpiresActive On
+  ExpiresDefault "access plus 180 seconds"
+  ExpiresByType text/html "access plus 604800 seconds"
+  ExpiresByType image/gif "access plus 2592000 seconds"
+  ExpiresByType image/jpeg "access plus 2592000 seconds"
+  ExpiresByType image/png "access plus 2592000 seconds"
+  ExpiresByType text/css "access plus 604800 seconds"
+</ifModule>
+
+<ifModule mod_headers.c>
+  <filesMatch "\.(ico|pdf|flv|jpg|jpeg|png|gif|swf)$">
+    Header set Cache-Control "max-age=2592000, public"
+  </filesMatch>
+  <filesMatch "\.(css)$">
+    Header set Cache-Control "max-age=604800, public"
+  </filesMatch>
+  <filesMatch "\.(xml|txt)$">
+    Header set Cache-Control "max-age=216000, public, must-revalidate"
+  </filesMatch>
+  <filesMatch "\.(html|pdf|mobi|epub)$">
+    Header set Cache-Control "max-age=604800, private, must-revalidate"
+  </filesMatch>
+</ifModule>
+
+Header set Strict-Transport-Security "max-age=31536000" env=HTTPS
+
+ErrorDocument 404 /404/index.html
