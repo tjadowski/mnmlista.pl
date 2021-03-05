@@ -2,48 +2,40 @@ wolnej to nie znaczy zrozumialej
 2009-12-02#1
 /slowness-is-happiness
 
-Szukam ochotnika(czki) który ten wpis przetłumaczy, szczegóły jak to zrobić są [tutaj](/assets/README.txt)
+Kris Madden miał przemyślaną odpowiedź na mój ostatni wpis o wolnym czytaniu i ja odpowiedziałem w komentarzach
+i chciałbym zacytować ją też tutaj:
 
-*******
+Cześć Kris … dzięki za twoją przemyślaną odpowiedź! Ona właściwie dała mi szansę aby
+wyjaśnić pewne błędne mniemania.
 
-Kris Madden had a thoughtful response to my last post on reading slower, and I posted a
-response in the comments that I’d like to repost here:
+Mianowice, źle zrozumiałeś kilka punktów:
 
-Hi Kris … thanks for your thoughtful response! It actually gives me a chance to
-clear up some misconceptions.
+1. Nie wspomniałem zrozumienia tekstu w moim wpisie i jeśli tak zasugerowałem, przepraszam. 
+	Zwolnienie czytania sprawia że proces czytania — i pracy generalnie — jest bardziej przyjemny.
+	To jest główny punkt zwolnienie, nie by zrozumieć więcej.
 
-Namely, you misunderstood a couple of points:
+	Gdy zwalniamy, poruszamy się bardziej zrelaksowanym tempem, nie czujemy się popędzani, nie staramy
+	się zmieścić zbyt dużo rzeczy w naszym dniu. I co najważniejsze, mamy czas na myślenie o tym co ważne,
+	zamiast po prostu robić rzeczy tak szybko jak umiemy.
 
-1. I didn’t mention reading comprehension in my post and if that was implied, I
-apologize. Slowing down was to make the process of reading — and of working in
-general — more enjoyable. That’s the main point of slowing down, not to
-comprehend more.
+2. Nie powiedziałem, że wszystko musi być czytane w tym samym tempie. Powiedziałem tylko
+	żeby czytać wolniej. To może być różne wolne tempo dla różnych typów materiałów, ale podstawowy punkt — zwolnić 
+	aby cieszyć się bardziej życiem — pozostaje taki sam.
 
-When we slow down, we move at a more leisurely pace, we don’t feel so rushed,
-we’re not trying to cram too many things into our day. And most importantly, we
-have time to think about what’s important, rather than just doing things as
-fast as we can.
+3. Wydajność tak jak ty to definiujesz jest zdecydowanie zdefiniowana w tradycyjnym sensie. 
+	Odrzucam tradycyjną definicję, przynajmniej na chwilę teraz. Przeczytaj kilka z moich
+	wpisów na Zen Habits aby dowiedzieć się więcej. Wierzę w zasadzie że tradycyjna
+	definicja wydajności — zwiększanie tempa produkcji — jest przestarzała i bazuje
+	na modelu przemysłowym, gdzie pracownicy byli maszynami a zarządzający próbowali
+	zwiększać ich wydajność i tym samym zwiększać zyski. Odrzucam to —
+	pracownicy nie są maszynami, ale kreatywnymi, pomysłowymi ludźmi z nadziejami i celami
+	i pragną wolności i szczęścia.
 
-2. I didn’t say everything had to be read at the same rate. I just said to read
-slower. This can be a different rate of slowness for different types of
-materials, but the basic point — to slow down to enjoy life more — remains the
-same.
+I tak, wierzę że wydajność nie powinna być wynikiem szybszego tempa, ale by prowadziła
+do osiągania rzeczy, do wolności, do szczęścia, do robienia tego co kochasz.
 
-3. Productivity as you’ve defined it is definitely the traditional sense. I’m
-rejecting that traditional definition, and have for awhile now. Read some of my
-posts on Zen Habits for more on this. I basically believe the traditional
-definition of productivity — to increase our rate of output — is outdated and
-based on an industrial model, where workers were machines and management tried
-to increase their productivity and thereby increase profits. I reject this —
-workers are not machines, but creative, imaginative humans with hopes and goals
-and the desire for freedom and happiness.
+I dlatego efektywność jest ważniejsza niż tempo pracy — jeśli skupisz się na tym co ważne, możesz zrobić świetne rzeczy, i zrobić je szybciej ponieważ nie starasz się robić zbyt dużo.
 
-And so, I believe productivity shouldn’t be to output at a faster rate, but to
-lead to achieving things, to freedom, to happiness, to doing what you love.
+Dzięki za możliwość doprecyzowania moich myśli!
 
-That’s why effectiveness is more important than rate — if you focus on what’s
-important, then you can get great things done, and do them in less time because
-you’re not trying to do too much.
-
-Thanks for the opportunity to clarify my thoughts!
 Leo
