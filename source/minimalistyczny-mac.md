@@ -2,62 +2,51 @@ minimalistyczna konfiguracja Mac'a
 2009-09-22#1
 /minimalist-mac
 
-Szukam ochotnika(czki) który ten wpis przetłumaczy, szczegóły jak to zrobić są [tutaj](/assets/README.txt)
+Minimalistycznie skonfigurowany Mac jest lekki, zwinny, niezabałagniony, z prostymi aplikacjami.
 
-*******
+I w rezultacie, można robić rzeczy z wściekłą szybkością, bez nadmiernie rozrośniętych porgramów które zwalniają rzeczy.
+Praca jest bez napięcia i nie zajmuję dużo czasu.
 
-A minimalist Mac setup is lightweight, lean, uncluttered, with simple apps.
+Polecam bardzo taką konfigurację dla każdego kto chce trzymać rzeczy prosto i szybko.
+Nie rekomenduję dla tych którzy chcą najnowszych, znakomitych programów albo dla tych
+którzy nie dążą do prostoty lub dla tych któ©zy mają większe wymagania niż ja.
 
-As a result, things run at a blazing speed, without bloated applications to
-slow things down. Work is frictionless, and doesn’t take long.
+**Filozofia**
 
-I highly recommend this setup for anyone looking to keep things simple and
-fast. It’s not recommended for those who are into the latest, coolest
-applications or who aren’t into simplicity, or who have heavier needs than
-mine.
+1. Brak bałaganu. Zabałagniony pulpit komputera jest rozproszający. Dlatego Dock ma 21 ikon.
+	Dlatego ma tonę otwartych okien. Zachowując swój Mac uporządkowany minimalizujesz rozproszenia
+	i zamieszanie i pozwala Ci na skupienie.
 
-**Philosophy**
+2. Trzymaj system zwinny. Współczesne systemy mają tendencje być nadmiernie rozrośnięte ponieważ oferują
+tak dużo świetnych możliwości. Nie używam większości z nich. Na Macu włączając w to:
+Dock, Spotlight, Dashboard, Spaces, Expose, Automator, pasek menu, Bluetooth, MobileMe, Print & Fax, Time Machine, Screen Saver i wiele więcej. Rekomenduję nie używać tych funkcji bo one po prostu zwalniają rzeczy przez większość czasu.
+Niestety nie możesz wyłączyć większośći z nich bez pewnego poważnego hackowania systemu.
+Wyłączają niektóre z nich pomoże utrzymać system zwinnym.
 
-1. No clutter. A cluttered desktop is a distraction. So is a Dock that has 21
-icons. So is having a ton of windows open. Keeping your Mac clutter-free
-minimizes distractions and confusion and allows you to focus.
+3. Proste, jednozadaniowe programy. Współczesne aplikacje zbyt dużo próbują robić. Chcą być wszystkim,
+ale to prowadzi do nadmiernie roznośniętych funkcji i pożerania pamięci.
+Dużo czasu zajmuje załadowanie dużych aplikacji i one często się zawieszają lub zwlaniają twoją pracę.
+Zamiast tego trzymaj programy tak prosto jak to możliwe. Powinny być lekkie i jeśli jest to możliwe
+mieć jedne przeznaczenie i kilka funkcji.
 
-2. Keep the system lean. Modern systems tend to be bloated, because they offer
-so many cool features. I don’t use most of these features. On the Mac, they
-include: the Dock, Spotlight, the Dashboard, Spaces, Expose, Automator, the
-menu bar, Bluetooth, MobileMe, Print & Fax, Time Machine, the Screen Saver, and
-much more. I recommend against using these features, as they just slow things
-down most of the time. Unfortunately, you can’t turn most of them off without
-some serious hacking. Turning some of them off helps keep the system lean.
+4. Proste formaty. Preferuję formaty tekstowe do zapisu danych. Większość innych formatów, tak jak
+bazy danych, jest nadmiernie roznośniętych, podatnych na zepsucie, autorskich i nie kompatybilnych z innymi
+programami.
 
-3. Simple, single-purpose apps. Modern applications try to do too much. They
-want to be everything, but that leads to feature bloat and memory hogs. It
-takes a long time to load big apps, and they often crash or slow things down.
-Instead, keep apps as simple as possible. They should be lightweight, and if
-possible, have only one purpose and few features.
+5. Nie baw się bezmyślnie. Wybierz rozwiązanie i po prostu bądź konsekwentny. Geeki takie jak ja mają tendencję
+żeby zawsze wypróbowywać najnowsze i najlepsze programy. Zapomnij o tym. Wyberz jakiś prosty program i po prostu rób robotę.
 
-4. Simple formats. I prefer text files for storing things. Most other formats,
-such as databases, are bloated, corruptible, often proprietary, and not
-compatible with other programs.
+**System**
 
-5. Don’t fiddle. Choose a path, and then just stick with it. Geeks like me tend
-to always try the latest and greatest apps. Forget about it. Choose some simple
-apps and just get your work done.
+Większość tego co jest dołączane do Maca (i Windowsa , jeśli o to chodzi) jest niepotrzebne aby po prostu robić proste rzeczy.
+Wykasuj jeśli jest to możliwe, ukryj resztę.
 
-**The System**
 
-Most of what’s included in the Mac (and Windows, for that matter) is
-unnecessary for getting simple tasks done. Remove what’s possible, hide the
-rest.
+Poniższa konfiguracja pozwoli ci otworzyć aplikacje i wykonać zadanie tak szybko jak to możliwe, bez potrzeby uruchamiania skomplikowanych funkcji.
 
-The following setup will allow you to open your apps and complete your tasks as
-quickly as possible, without the need for complicated features.
-
-1. Hide Dock. If someone knows how to kill the Dock, please let me know. Or any
-of the other features mentioned in the previous section. I’ll add it below. As
-for now, I’ve just put the Dock on auto-hide (“Turn hiding on” in Dock
-preferences) so it’s not usually cluttering the desktop. I’ve also removed
-everything from the Dock other than the Trash.
+1. Ukryj Dock. Jeśli ktoś wie jak usunąć Dock, daj mi znać proszę. Lub inną funkcję wymienioną w poprzedniej sekcji.
+Dodam to poniżej. Ale teraz, uaktywniam Dock w trybie autoukrycia (“Turn hiding on” we właściwościach Dock)
+więc przeważnie nie zaśmieca pulpitu. Usunąłem też wszystko z Dock oprócz Kosza. 
 
 2. Kill Spotlight. I’ve rarely needed Spotlight, and it takes up a lot of
 system resources to index your computer. It’s a powerful tool, but too powerful
