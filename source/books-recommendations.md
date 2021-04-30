@@ -29,6 +29,11 @@ Poniżej lista wartościowych moim zdaniem lektur które każdy powinien przeczy
 
 * Seneka "Listy Moralne do Lucyliusza" i Marek Aureulisz "Rozmyślania"
 
-    Dwa dzieła stoickie, napisane ponad dwa tysiąclecia temu, a przesłania i rozwiązania naszych problemów zawarte w nich
-    są cały czas aktualne i działające. Polecam każdemu, niezależnie czy interesuje się filozofią stoicką czy też nie. Może
-    w nich znajdziesz odpowiedź na pytanie co to znaczy dobre i wartościowe życie?
+	Dwa dzieła stoickie, napisane ponad dwa tysiąclecia temu, a przesłania i rozwiązania naszych problemów zawarte w nich
+	są cały czas aktualne i działające. Polecam każdemu, niezależnie czy interesuje się filozofią stoicką czy też nie. Może
+	w nich znajdziesz odpowiedź na pytanie co to znaczy dobre i wartościowe życie?
+
+* Katarzyna Kędzierska "Chcieć mniej"
+
+	Minimalizm z perspektywy kobiety. Warto, nawet jeśli jesteś mężczyzną. Dużo praktycznych wskazówek, z solidną bazą praktyki
+	w polskich warunkach. Brak ekstremizmów, podejście bardziej zrównoważone niż u Fumio Sasakiego.

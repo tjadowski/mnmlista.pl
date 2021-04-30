@@ -31,7 +31,7 @@ Dotyczy tego, w jaki sposób mniej staje się odpowiedzią.
 * Przejrzyj [linki mnmlisty](/linki/).
 * Przeczytaj wspaniałe [cytaty](/cytaty/).
 
-**Nowy start (20.08.2016)**
+**Nowy start (31.07.2016)**
 
 Zarejestrowałem ponownie porzuconą przez Aleksandra domenę, przywróciłem
 jego tłumaczenia z [Web Archive](http://archive.org), a teraz tłumaczę na
