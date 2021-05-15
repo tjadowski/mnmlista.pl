@@ -40,6 +40,8 @@ bieżąco nowe.
 [Tutaj](/assets/source-mnmlista.pl.zip) znajdziesz pliki źródłowe
 (przeczytaj [README.txt](/assets/README.txt)).
 
+Źródła znajdziesz również na [GitHubie](https://github.com/tjadowski/mnmlista.pl).
+
 **Krótkie bio admina**
 
 Mieszkam w małym mieście, na północy Polski.
