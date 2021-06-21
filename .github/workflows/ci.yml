@@ -31,8 +31,6 @@ jobs:
         source ./quote.conf
         export MARKDOWN="pandoc -t html"
         ./make.sh
-        pwd
-        ls ./public/offline
     - name: build mnmlista
       working-directory: $GITHUB_WORKSPACE/mnmlista
       run: |        
@@ -43,7 +41,7 @@ jobs:
     - name: deploy mnmlista
       working-directory: $GITHUB_WORKSPACE/mnmlista
       run: |
-        mv $GITHUB_WORKSPACE/offline/public/offline ./public
+        mv /home/runner/work/mnmlista.pl/mnmlista.pl/$GITHUB_WORKSPACE/offline/public/offline ./public
         ./add_timestamp.sh
         ./rewrite_url.sh
         find ./public -type d -exec chmod 755 {} \;
