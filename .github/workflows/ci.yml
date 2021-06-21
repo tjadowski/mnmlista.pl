@@ -12,14 +12,20 @@ jobs:
     - name: install
       run: |
         sudo apt-get install lftp pandoc -y
+    - name: Checkout offline
+      uses: actions/checkout@v2
+      with:
+        repository: tjadowski/offline
+        token: ${{ secrets.ACCESS_TOKEN }} # `GitHub_PAT` is a secret that contains your PAT
+        path: $GITHUB_WORKSPACE/offline        
     - name: Checkout mnmlista
       uses: actions/checkout@v2
       with:
         repository: tjadowski/mnmlista.pl
         token: ${{ secrets.GITHUB_TOKEN }} # `GitHub_PAT` is a secret that contains your PAT
-        path: $GITHUB_WORKSPACE
+        path: $GITHUB_WORKSPACE/mnmlista
     - name: build mnmlista
-      working-directory: $GITHUB_WORKSPACE
+      working-directory: $GITHUB_WORKSPACE/mnmlista
       run: |        
         source ./env.conf
         export CONVERTER="pandoc"
