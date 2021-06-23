@@ -44,7 +44,6 @@ jobs:
         mv ../offline/public/offline ./public
         ./add_timestamp.sh
         ./rewrite_url.sh
-        mv .htaccess-offline ./public/offline/
         find ./public -type d -exec chmod 755 {} \;
         find ./public -type f -exec chmod 644 {} \;
         cd public
